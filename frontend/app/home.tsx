@@ -52,7 +52,7 @@ type DayMenu = {
 type MenuResponse = Record<string, DayMenu>;
 
 /* -------------------- CONSTANTS -------------------- */
-const API_URL = "http://192.168.252.105:8000/menu/daily";
+const API_URL = "https://cafeteria-app-q9o5.onrender.com/menu/daily";
 
 /* -------------------- MENU STRUCTURE -------------------- */
 const MENU_STRUCTURE: MenuSection[] = [
@@ -79,7 +79,7 @@ const MENU_STRUCTURE: MenuSection[] = [
     time: "5:00 – 7:30 PM",
     items: [
       { title: "PAID SNACKS", time: "5:00 – 6:00 PM", price: 40 },
-      { title: "LTTS SNACKS", time: "7:00 – 7:30 PM", price: 0 },
+      { title: "LTTS SNACKS", time: "7:00 – 7:30 PM", price: 40 },
     ],
   },
   {
@@ -107,6 +107,10 @@ const parseStartTime = (timeRange: string) => {
 
   return d;
 };
+const toTitleCase = (str: string) =>
+  str
+    .toLowerCase()
+    .replace(/\b\w/g, c => c.toUpperCase());
 
 const isSameDay = (a: Date, b: Date) =>
   a.toDateString() === b.toDateString();
@@ -189,7 +193,7 @@ const canBookSection = (sectionTime: string) => {
   if (!sectionStart) return false;
 
   const bookingStart = new Date(sectionStart.getTime() - 4 * 60 * 60 * 1000);
-  const bookingEnd = new Date(sectionStart.getTime()+ 6 * 60 * 60 * 1000);
+  const bookingEnd = new Date(sectionStart.getTime()+ 4  * 60 * 60 * 1000);
 
   const now = new Date();
 
@@ -307,7 +311,7 @@ return updated;
 
   });
 
-  await fetch("http://192.168.252.101:8000/menu/book", {
+  await fetch("https://cafeteria-app-q9o5.onrender.com/menu/daily", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
@@ -339,9 +343,6 @@ const currentMenu = useMemo<DayMenu>(() => {
   );
 }, [localMenu, selectedDateObj]);
 
-
-
-
   /* -------------------- MERGED DYNAMIC MENU -------------------- */
 const noMenuForDay = Object.keys(currentMenu.meals).length === 0;
 
@@ -360,7 +361,10 @@ const dynamicMenu: MenuSection[] = useMemo(() => {
             ? getAfternoonTime(currentBlock, currentFloor)
             : item.time,
 
-        menu: currentMenu.meals[item.title] ?? "No menu available",
+        menu: currentMenu.meals[item.title]
+        ? toTitleCase(currentMenu.meals[item.title])
+        : "No menu available",
+
 
         portion:
           portionKey && currentMenu.meals[portionKey] !== undefined
