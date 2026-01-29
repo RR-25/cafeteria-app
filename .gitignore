@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Expo
+.expo/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
