@@ -1,123 +1,186 @@
 {
-    "2026-01-26": {
+    "2026-01-19": {
         "day": "Monday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "1234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "RATLAMI SEV POHA(150 GMS) + USSAL TARI",
+            "DOSA COUNTER": "MASALA DOSA VEGETABLE IDLI WITH SAMBHAR",
+            "THALI LUNCH": "SUBZ HANDI (SEMI DRY) + RAJMA MASALA + DAL MAHARANI + DHANIYA RICE + BUTTER ROTI + TOSSED SALAD + VERMICILLI FRUIT CUSTARD",
+            "VEG COMBO": "SANDWICH UTTAPAM + SAMBHAR/ CHUTNEY",
+            "PORTION-VC": "270",
+            "NON VEG COMBO": "ACHARI MURGH JHOL + JEERA RICE",
+            "PORTION-NVC": "180",
+            "PORTION-D": "25",
+            "THALI DINNER": "PANCH PHORAN VEGETABLE (SEMI DRY) + WHITE MATAR RASILA + DAL NARKOL + MASALA BHAAT + ROTI + GREEN SALAD + DRY FRUIT SHEERA",
+            "SALAD BAR": "VEGETABLE CLEAR SOUP + GREEN SALAD + BROCOLLI & CORN SALAD + MIX SPROUTED SALAD + CUT FRUIT SALAD + BREAD BUTTER",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "VEG CHEESE POPPERS + KETCHUP",
+            "LTTS SNACKS": "DABELI + IMLI CHUTNEY"
         }
+    },
+    "2026-01-20": {
+        "day": "Tuesday",
+        "meals": {
+            "BREAKFAST": "AJWAIN PARATHA(02 PCS) + ALOO BHAJI + ",
+            "DOSA COUNTER": "CHUTNEY MASALA DOSA IDLI WITH SAMBHAR",
+            "THALI LUNCH": "AMCHURI BHINDI ALOO MASALA (SEMI DRY) + SOYABEAN ROGAN JOSH + DAL TARANG + VEG PULAV + ROTI + MASALA CHAAS + BROWNIE",
+            "VEG COMBO": "VEG AWADHI DUM BIRYANI + CUCUMBER RAITA / PAPAD",
+            "PORTION-VC": "280",
+            "NON VEG COMBO": "MURGH CHETTINAD + MALABARI PARATHA",
+            "PORTION-NVC": "160",
+            "PORTION-D": "30",
+            "THALI DINNER": "ALOO GOBHI ADRAKI (SEMI DRY) + TOFU MATAR CURRY + DAL MASOORI FRY + CARROT RICE + MASALA ROTI + RICE PAPAD + JALEBI",
+            "SALAD BAR": "FINGER SALAD + BLACK CHANA SALAD + GRILLED VEGETABLE BARBEQUE SALAD + CURD RICE + MELON MINT SALAD + SALSA S/W",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "MANCHURIAN NOODLES",
+            "LTTS SNACKS": "SABUDANA TIKKI + IMLI CHUTNEY"
+        }
+    },
+    "2026-01-21": {
+        "day": "Wednesday",
+        "meals": {
+            "BREAKFAST": "VEGETABLE UPMA (150 PCS) + COCONUT CHUTNEY",
+            "DOSA COUNTER": "MASALA DOSA CARROT IDLI WITH SAMBHAR",
+            "THALI LUNCH": "KACCHA KELA METHI TOMATO NU SHAAK (SEMI DRY) + LOBIYA CURRY + KATHIAWADI KADHI + WAGHRELI KHICHDI + ROTI + FRY PAPAD + SEV BOONDI",
+            "VEG COMBO": "STUFFED ALOO PANEER PARATHA + MASALA RAITA/SWEET",
+            "PORTION-VC": "350",
+            "NON VEG COMBO": "GOAN FISH CURRY + STEAMED RICE",
+            "PORTION-NVC": "179",
+            "PORTION-D": "25",
+            "THALI DINNER": "BHUNA CABBAGE CAPSICUM (SEMI DRY) + GATTA CURRY + MIX DAL TADKA + STEAM RICE + ROTI + ALOO BONDA(01 PC) + CUP CAKE",
+            "SALAD BAR": "CUCUMBER MINT SALAD + THREE BEAN SALAD + DAHI POORI + KIMCHI SALAD + BANANA + MAYO S/W",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "SEV POHA + IMLI CHUTNEY",
+            "LTTS SNACKS": "SAMOSA CHAAT"
+        }
+    },
+    "2026-01-22": {
+        "day": "Thursday",
+        "meals": {
+            "BREAKFAST": "SEV USSAL (150 GMS) + PAV(03 PCS)",
+            "DOSA COUNTER": "CHETTINAD MASALA DOSA RAGI IDLI WITH SAMBHAR",
+            "THALI LUNCH": "BEETROOT GAJAR MATAR (SEMI DRY) + OVEN ROASTED BAKED POTATO IN MAKAHNI GRAVY + DAL TADKA + STEAM RICE + BUTTER RICE +  BOONDI RAITA + SLICE CAKE",
+            "VEG COMBO": "VEG MANCHURIAN + VEG FRIED RICE",
+            "PORTION-VC": "280",
+            "NON VEG COMBO": "MURGH PATIYALA + AJWAIN PARATHA",
+            "PORTION-NVC": "170",
+            "PORTION-D": "30",
+            "THALI DINNER": "LAUKI CHANA(SEMI DRY) + MIX KATHOL + DAL PALAK + BUTTER RICE + ROTI + JULLIENE SALAD + RICE PHIRNI",
+            "SALAD BAR": "PALAK SOUP + GREEN SALAD + MUSTARD POTATO SALAD + SPROUTED SALAD + CUT FRUIT + CHUTNEY S/W",
+            "PORTION-SB": "131",
+            "PAID SNACKS": "DAL WADA + KADHI",
+            "LTTS SNACKS": "WHITE DHOKLA + GREEN CHUTNEY"
+        }
+    },
+    "2026-01-23": {
+        "day": "Friday",
+        "meals": {
+            "BREAKFAST": "AJWAIN POORI(05 PCS) + ALOO BHAJI",
+            "DOSA COUNTER": "MASALA DOSA IDLI WITH SAMBHAR",
+            "THALI LUNCH": "SARSO DA SAAG (SEMI DRY) + CHOLE AMRITSARI + DAL MAKHANI + JEERA RICE + MISSI BUTTER ROTI + WAGHRELI MIRCHA + RAJBHOG",
+            "VEG COMBO": "VEGETABLE PIZZA(04 PCS) + KETCHUP",
+            "PORTION-VC": "160",
+            "NON VEG COMBO": "EGG DUM BIRYANI + MASALA RAITA / CHAAT/ SWEET",
+            "PORTION-NVC": "170",
+            "PORTION-D": "30",
+            "THALI DINNER": "HARI MIRCH BAIGAN KA SALAN ( SEMI DRY ) + NAYA ALOO CHATKARA + DAHI BHALLA(01 PC LIMITED) + VEGETABLE BRYANI + MISSI ROTI + FRY PAPAD + CHOCOLATE BALL",
+            "SALAD BAR": "TOSSED SALAD + RUSSIAN SALAD + DAHI WADA +FRIED IDLI SALAD + MIX FRUIT SALAD + BREAD JAM",
+            "PORTION-SB": "110",
+            "PAID SNACKS": "VEGETABLE MAGGI",
+            "LTTS SNACKS": "METHI GOTA + KADHI"
+        }
+    },
+    "2026-01-26": {
+        "day": "Monday ",
+        "meals": {}
     },
     "2026-01-27": {
         "day": "Tuesday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "123",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "AJWAIN PARATHA(02 PCS) + ALOO BHAJI",
+            "DOSA COUNTER": "CHUTNEY MASALA DOSA IDLI WITH SAMBHAR",
+            "THALI LUNCH": "AMCHURI BHINDI ALOO MASALA (SEMI DRY) + SOYABEAN ROGAN JOSH + DAL TARANG + VEG PULAV + ROTI + MASALA CHAAS + BROWNIE",
+            "VEG COMBO": "VEG AWADHI DUM BIRYANI + CUCUMBER RAITA / PAPAD",
+            "PORTION-VC": "280",
+            "NON VEG COMBO": "MURGH CHETTINAD + MALABARI PARATHA",
+            "PORTION-NVC": "160",
+            "PORTION-D": "30",
+            "THALI DINNER": "ALOO GOBHI ADRAKI (SEMI DRY) + TOFU MATAR CURRY + DAL MASOORI FRY + CARROT RICE + MASALA ROTI + RICE PAPAD + JALEBI",
+            "SALAD BAR": "FINGER SALAD + BLACK CHANA SALAD + GRILLED VEGETABLE BARBEQUE SALAD + CURD RICE + MELON MINT SALAD + SALSA S/W",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "MANCHURIAN NOODLES",
+            "LTTS SNACKS": "SABUDANA TIKKI + IMLI CHUTNEY"
         }
     },
     "2026-01-28": {
         "day": "Wednesday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "VEGETABLE UPMA (150 PCS) + COCONUT CHUTNEY",
+            "DOSA COUNTER": "MASALA DOSA CARROT IDLI WITH SAMBHAR",
+            "THALI LUNCH": "KACCHA KELA METHI TOMATO NU SHAAK (SEMI DRY) + LOBIYA CURRY + KATHIAWADI KADHI + WAGHRELI KHICHDI + ROTI + FRY PAPAD + SEV BOONDI",
+            "VEG COMBO": "STUFFED ALOO PANEER PARATHA + MASALA RAITA/SWEET",
+            "PORTION-VC": "350",
+            "NON VEG COMBO": "GOAN FISH CURRY + STEAMED RICE",
+            "PORTION-NVC": "179",
+            "PORTION-D": "25",
+            "THALI DINNER": "BHUNA CABBAGE CAPSICUM (SEMI DRY) + GATTA CURRY + MIX DAL TADKA + STEAM RICE + ROTI + ALOO BONDA(01 PC) + CUP CAKE",
+            "SALAD BAR": "CUCUMBER MINT SALAD + THREE BEAN SALAD + DAHI POORI + KIMCHI SALAD + BANANA + MAYO S/W",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "SEV POHA + IMLI CHUTNEY",
+            "LTTS SNACKS": "SAMOSA CHAAT"
         }
     },
     "2026-01-29": {
         "day": "Thursday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "1234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "RATLAMI SEV POHA(150 GMS) + USSAL TARI",
+            "DOSA COUNTER": "MASALA DOSA VEGETABLE IDLI WITH SAMBHAR",
+            "THALI LUNCH": "SUBZ HANDI (SEMI DRY) + RAJMA MASALA + DAL MAHARANI + DHANIYA RICE + BUTTER ROTI + TOSSED SALAD + VERMICILLI FRUIT CUSTARD",
+            "VEG COMBO": "SANDWICH UTTAPAM + SAMBHAR/ CHUTNEY",
+            "PORTION-VC": "270",
+            "NON VEG COMBO": "ACHARI MURGH JHOL + JEERA RICE",
+            "PORTION-NVC": "180",
+            "PORTION-D": "25",
+            "THALI DINNER": "PANCH PHORAN VEGETABLE (SEMI DRY) + WHITE MATAR RASILA + DAL NARKOL + MASALA BHAAT + ROTI + GREEN SALAD + DRY FRUIT SHEERA",
+            "SALAD BAR": "VEGETABLE CLEAR SOUP + GREEN SALAD + BROCOLLI & CORN SALAD + MIX SPROUTED SALAD + CUT FRUIT SALAD + BREAD BUTTER",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "VEG CHEESE POPPERS + KETCHUP",
+            "LTTS SNACKS": "DABELI + IMLI CHUTNEY"
         }
     },
     "2026-01-30": {
         "day": "Friday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
-        }
-    },
-    "2026-01-31": {
-        "day": "Monday ",
-        "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "1234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
-        }
-    },
-    "2026-02-01": {
-        "day": "Tuesday",
-        "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "SEV USSAL (150 GMS) + PAV(03 PCS)",
+            "DOSA COUNTER": "CHETTINAD MASALA DOSA RAGI IDLI WITH SAMBHAR",
+            "THALI LUNCH": "BEETROOT GAJAR MATAR (SEMI DRY) + OVEN ROASTED BAKED POTATO IN MAKAHNI GRAVY + DAL TADKA + STEAM RICE + BUTTER RICE +  BOONDI RAITA + SLICE CAKE",
+            "VEG COMBO": "VEG MANCHURIAN + VEG FRIED RICE",
+            "PORTION-VC": "280",
+            "NON VEG COMBO": "MURGH PATIYALA + AJWAIN PARATHA",
+            "PORTION-NVC": "170",
+            "PORTION-D": "30",
+            "THALI DINNER": "LAUKI CHANA(SEMI DRY) + MIX KATHOL + DAL PALAK + BUTTER RICE + ROTI + JULLIENE SALAD + RICE PHIRNI",
+            "SALAD BAR": "PALAK SOUP + GREEN SALAD + MUSTARD POTATO SALAD + SPROUTED SALAD + CUT FRUIT + CHUTNEY S/W",
+            "PORTION-SB": "131",
+            "PAID SNACKS": "DAL WADA + KADHI",
+            "LTTS SNACKS": "WHITE DHOKLA + GREEN CHUTNEY"
         }
     },
     "2026-02-02": {
-        "day": "Wednesday",
-        "meals": {}
-    },
-    "2026-02-03": {
-        "day": "Thursday",
+        "day": "Monday",
         "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "1234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
-        }
-    },
-    "2026-02-04": {
-        "day": "Friday",
-        "meals": {
-            "BREAKFAST": "zxcv",
-            "DOSA COUNTER": "lkjh",
-            "THALI LUNCH": "qqq",
-            "VEG COMBO": "1234",
-            "NON VEG COMBO": "567",
-            "THALI DINNER": "12345",
-            "SALAD BAR": "qwerty",
-            "EVENING SNACKS PAID BASIS": "asdfg"
+            "BREAKFAST": "RATLAMI SEV POHA(150 GMS) + USSAL TARI",
+            "DOSA COUNTER": "MASALA DOSA VEGETABLE IDLI WITH SAMBHAR",
+            "THALI LUNCH": "SUBZ HANDI (SEMI DRY) + RAJMA MASALA + DAL MAHARANI + DHANIYA RICE + BUTTER ROTI + TOSSED SALAD + VERMICILLI FRUIT CUSTARD",
+            "VEG COMBO": "SANDWICH UTTAPAM + SAMBHAR/ CHUTNEY",
+            "PORTION-VC": "270",
+            "NON VEG COMBO": "ACHARI MURGH JHOL + JEERA RICE",
+            "PORTION-NVC": "180",
+            "PORTION-D": "25",
+            "THALI DINNER": "PANCH PHORAN VEGETABLE (SEMI DRY) + WHITE MATAR RASILA + DAL NARKOL + MASALA BHAAT + ROTI + GREEN SALAD + DRY FRUIT SHEERA",
+            "SALAD BAR": "VEGETABLE CLEAR SOUP + GREEN SALAD + BROCOLLI & CORN SALAD + MIX SPROUTED SALAD + CUT FRUIT SALAD + BREAD BUTTER",
+            "PORTION-SB": "130",
+            "PAID SNACKS": "VEG CHEESE POPPERS + KETCHUP",
+            "LTTS SNACKS": "DABELI + IMLI CHUTNEY"
         }
     }
 }
